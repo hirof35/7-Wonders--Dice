@@ -6,6 +6,7 @@
 共通のダイスプールからダイスをドラフト（選択）し、自分の都市（七不思議、軍事、科学、商業など）を成長させて最高得点を目指します。
 
 ---
+<img width="855" height="907" alt="スクリーンショット 2026-06-23 103337" src="https://github.com/user-attachments/assets/aad60d30-7a22-4f9c-9d32-bceb0d880505" />
 
 ## 🛠️ 機能と特徴
 
@@ -58,4 +59,3 @@ node 7wonders-dice.js
 
 
 ---
-<img width="855" height="907" alt="スクリーンショット 2026-06-23 103337" src="https://github.com/user-attachments/assets/aad60d30-7a22-4f9c-9d32-bceb0d880505" />
